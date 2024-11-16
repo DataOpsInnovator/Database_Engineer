@@ -1,0 +1,8 @@
+# SQLAutomationToolkit Documentation
+
+Welcome to the documentation for SQLAutomationToolkit. Here you'll find detailed information on how to use the tools and scripts provided in this repository.
+
+## Getting Started
+- Overview of automation scripts
+- Configuration and setup
+- Best practices for database optimization
